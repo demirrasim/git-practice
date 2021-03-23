@@ -1,0 +1,5 @@
+Name:Omar
+Occupation: Student
+Salary: 100000
+Strength: aosdlasd
+Address: Houston TX
